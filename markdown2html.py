@@ -60,5 +60,3 @@ if __name__ == '__main__':
 
     # Convert the markdown file to HTML
     convert_md_to_html(args.input_file, args.output_file)
-
-
